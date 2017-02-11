@@ -1,6 +1,6 @@
 <?php
 /**
- * @file MultiArraySort2.php
+ * @file MultiSortMultiArr.php
  * @author lurenzhong@xiaomi.com
  * @brief 多维数组排序(通过array_multisort()内置函数实现,该函数类似order by功能)
  */
