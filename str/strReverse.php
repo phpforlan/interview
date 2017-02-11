@@ -11,7 +11,7 @@ function strReverse($str)
         echo '你输入的不是utf-8类型的字符串!'. "\n";
     }
 
-    $strLen = mb_strlen($str, 'utf8');
+    $strLen = mb_strlen($str, 'utf-8');
 
     $arr = [];
     for($i=0; $i<$strLen; $i++){
